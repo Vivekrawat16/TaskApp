@@ -1,5 +1,7 @@
 # Task Management Web App
 
+[![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://taskapp-production-b535.up.railway.app/)
+
 A modern, full-stack Task Management application built with the MERN stack (MongoDB, Express, React, Node.js). It features a clean, responsive UI designed with Tailwind CSS.
 
 ## Features
